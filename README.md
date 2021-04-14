@@ -1,4 +1,13 @@
 ### Hi there 👋
+#### I am Max Buydakov!
+##### I am a Pre-Med Human Biology student minoring in Global Health at the University of California - San Diego. 
+Outside of volunteering at Cedars Sinai and teaching the underserved population the importance health; I spend a great deal of my free time learning how to code.  
+
+- 🔭 I’m currently working on improving my various existing projects.
+- 🌱 I’m currently learning to code in C.
+- 💬 Ask me about [The Dudes of 708](https://dudesof708.com/).
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/maxbuydakov/)
+- ⚡ How to fund me:  [PayPal](https://paypal.me/MaxBuydakov?locale.x=en_US)
 
 <!--
 **mbuyd/mbuyd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
