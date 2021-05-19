@@ -1,7 +1,7 @@
 ### Hi there 👋
 #### I am Max Buydakov!
 ##### I am a Pre-Med Human Biology student minoring in Global Health at the University of California - San Diego. 
-Outside of volunteering at Cedars Sinai and teaching the underserved population the importance health; I spend a great deal of my free time learning how to code.  
+
 
 - 🔭 I’m currently working on improving my various existing projects.
 - 🌱 I’m currently learning to code in C.
@@ -22,4 +22,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+Outside of volunteering at Cedars Sinai and teaching the underserved population the importance health; I spend a great deal of my free time learning how to code.  
 -->
