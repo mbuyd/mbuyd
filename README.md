@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### I am Max Buydakov!
-##### I am a Pre-Med Human Biology student minoring in Global Health at the University of California - San Diego. 
+##### I am a Pre-Med from the University of California - San Diego with a BS in Global Health and Human Biology. 
 
 
 - 🔭 I’m currently working on improving my various existing projects.
