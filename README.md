@@ -3,7 +3,7 @@
 ##### I am a Pre-Med from the University of California - San Diego with a BS in Global Health and Human Biology. 
 
 
-- 🔭 I’m currently working on improving my various existing projects.
+- 🔭 I’m currently working on Toki Pona language models.
 - 🌱 I’m currently learning to code in C.
 - 💬 Ask me about [The Dudes of 708](https://dudesof708.com/).
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/maxbuydakov/)
